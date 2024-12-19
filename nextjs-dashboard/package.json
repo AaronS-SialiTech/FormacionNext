@@ -13,6 +13,10 @@
     "autoprefixer": "10.4.20",
     "bcrypt": "^5.1.1",
     "clsx": "^2.1.1",
+    "next": "15.1.1-canary.13",
+    "next-auth": "^4.24.11",
+    "nextjs": "^0.0.3",
+    "oidc-token-hash": "^5.0.3",
     "postcss": "8.4.49",
     "react": "19.0.0",
     "react-dom": "19.0.0",
@@ -28,6 +32,7 @@
     "@types/react-dom": "19.0.0",
     "eslint": "^9",
     "eslint-config-next": "15.1.1",
-    "next": "^15.1.1-canary.13"
+    "next": "^15.1.1-canary.13",
+    "nextjs": "^0.0.3"
   }
 }
